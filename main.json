@@ -3,8 +3,7 @@
     {
      "export":
         {
-         "format":"json",
-         "target":"room1..json"
+         "format":"json"
         }
     },
  "height":50,
@@ -176,7 +175,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"big.json#start"
+                 "value":"world:\/\/lobby#start_codereviewpit"
                 }],
          "type":"tilelayer",
          "visible":true,
