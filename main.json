@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "format":"json"
-        }
-    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -435,6 +428,32 @@
  "nextlayerid":35,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"contentWarnings",
+         "type":"string",
+         "value":" "
+        }, 
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"https:\/\/git.cccv.de\/rc3\/world-map-starterkit\/-\/tree\/master\/ and Alienmaster(CC-BY-SA 4.0)"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Overview of mostly new founded code review groups"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/Alienmaster\/divoc_CRG"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Code Review Pit"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.8.2",
  "tileheight":32,
