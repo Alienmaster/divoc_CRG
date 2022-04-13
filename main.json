@@ -1138,7 +1138,7 @@
         {
          "columns":2,
          "firstgid":6954,
-         "image":"tiles_png\/divoc\/Bunny 16x16.png",
+         "image":"tiles_png\/divoc\/Bunny16x16.png",
          "imageheight":32,
          "imagewidth":92,
          "margin":0,
@@ -1158,7 +1158,7 @@
         {
          "columns":1,
          "firstgid":6956,
-         "image":"tiles_png\/divoc\/Bunny 32x32.png",
+         "image":"tiles_png\/divoc\/Bunny32x32.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
