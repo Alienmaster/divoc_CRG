@@ -45,7 +45,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/anonymto.com\/?https:\/\/github.com\/c3h2-ctf\/"
+                 "value":"<iframe src=\"https:\/\/ThanatosisSerpentis.github.io\/about\"><\/iframe>"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
