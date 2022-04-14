@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe src=\"https:\/\/ThanatosisSerpentis.github.io\/about\"><\/iframe>"
+                 "value":"<iframe src=\"https:\/\/ThanatosisSerpentis.github.io\/about\" width=\"100%\" height=\"400\" frameborder=\"0\" scrolling=\"no\"><\/iframe>"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -1176,6 +1176,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"misc_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/git.cccv.de\/rc3\/world-map-starterkit\/-\/tree\/master\/"
+                }],
          "spacing":0,
          "tilecount":52,
          "tileheight":32,
@@ -1189,6 +1195,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/git.cccv.de\/rc3\/world-map-starterkit\/-\/tree\/master\/"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
