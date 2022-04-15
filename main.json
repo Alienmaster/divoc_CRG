@@ -98,7 +98,7 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/github.com\/c3h2-ctf\/"
+                 "value":"https:\/\/github.com\/LetsReadJava\/About"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -126,7 +126,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe width=\"1024\" height=\"576\" src=\"https:\/\/media.ccc.de\/v\/rc3-2021-cwtv-228-lets-review-code-toget\/oembed\" frameborder=\"0\" allowfullscreen><\/iframe>"
+                 "value":"https:\/\/media.ccc.de\/v\/rc3-2021-cwtv-228-lets-review-code-toget\/oembed"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
