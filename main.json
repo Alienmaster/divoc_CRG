@@ -27,7 +27,7 @@
          "name":"collide_layer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -244,6 +244,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to join the Tikibar! (Jitsi)"
                 }],
          "type":"tilelayer",
          "visible":true,
