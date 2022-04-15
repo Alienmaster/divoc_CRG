@@ -1199,6 +1199,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"bunnyS",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/git.cccv.de\/divoc\/bridging-bubbles-design"
+                }],
          "spacing":0,
          "tilecount":3,
          "tileheight":32,
