@@ -126,7 +126,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/media.ccc.de\/v\/rc3-2021-cwtv-228-lets-review-code-toget"
+                 "value":"<iframe width=\"1024\" height=\"576\" src=\"https:\/\/media.ccc.de\/v\/rc3-2021-cwtv-228-lets-review-code-toget\/oembed\" frameborder=\"0\" allowfullscreen><\/iframe>"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
