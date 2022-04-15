@@ -1204,20 +1204,6 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ffffff"
-        }, 
-        {
-         "columns":3,
-         "firstgid":7229,
-         "image":"C:\/Users\/Creepyking\/Rastergrafik.png",
-         "imageheight":101,
-         "imagewidth":109,
-         "margin":0,
-         "name":"BunnySVG",
-         "spacing":0,
-         "tilecount":9,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ffffff"
         }],
  "tilewidth":32,
  "type":"map",
